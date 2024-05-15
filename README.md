@@ -1,5 +1,5 @@
 # NNFromScratch
-NeuralNetworkFromScratch is an educational project demonstrating the creation of a neural network using Python. This repository contains a detailed Google Colab notebook that outlines the step-by-step process of building the neural network, accompanied by thorough explanations and a written assignment in PDF .
+This project demonstrates how to build a neural network from scratch using Python and NumPy. It includes implementations for both standard fully connected layers and ResNet layers, showcasing essential concepts like forward passes, backpropagation, and gradient checking.
 
 ## Features
 
